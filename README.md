@@ -79,7 +79,7 @@ When digging underground, most of the underground area appears completely hollow
 
 Definitely Real Bug
 
-If you press Z at exactly 67,416,156 FPS while looking at the northern equator of Pluto, one block explodes.
+If you press Z at exactly 67,416,156 FPS while looking at the northern equator of Pluto, while typing C++ code, one block explodes.
 
 This is a completely serious and definitely reproducible issue.
 
