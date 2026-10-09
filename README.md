@@ -34,7 +34,6 @@ Currently implemented features may include:
 - Block-based environment
 - Player movement
 - Block interaction
-- [Add other features here]
 
 More features are planned.
 
